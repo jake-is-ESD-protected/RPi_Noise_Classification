@@ -1,0 +1,4 @@
+# Ignore the node_modules directory
+venv/
+librosa-0.8.1/
+.vscode/
